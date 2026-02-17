@@ -99,23 +99,14 @@ index/
 
 ## Example Results
 I upload shoes image 
-
+![description](images/shoes.jpg)
 * When searching using a **shoe image + the word "white"**, the system returned matching **white shoes**.
+![description](images/color-only.png)
 * After adding a **price constraint**, the results were automatically filtered to show only **lower-priced items**.
-
----
-
-## Project Structure
-
-```
-FashionFinder/
-│── app.py
-│── build_index.py
-│── index/
-│── images/
-│── README.md
-```
-
+![description](images/color-price.png)
+* Additionally, clicking the link will take you to the Amazon page
+  ![description](images/amzon.png)
+  
 ---
 
 ## Author
